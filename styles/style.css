@@ -1,0 +1,13 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.main-content {
+    background-color: FFFFFF;
+}
+.sidebar {
+    background-color:1E2939 ;
+}
